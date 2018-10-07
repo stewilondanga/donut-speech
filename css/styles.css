@@ -544,7 +544,7 @@ body {
 
 /* leg-arm fix */
 
-/*.k_rightLeg span {
+.k_rightLeg span {
   position: absolute;
   display: inline-block;
   background: #fbddd8;
@@ -555,7 +555,7 @@ body {
   transform: rotate(-75deg);
 }
 
-.k_leftLeg {
+/*.k_leftLeg {
   width: 20px;
   height: 20px;
   background: #fbddd8;
