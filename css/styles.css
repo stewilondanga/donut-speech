@@ -555,7 +555,7 @@ body {
   transform: rotate(-75deg);
 }
 
-/*.k_leftLeg {
+.k_leftLeg {
   width: 20px;
   height: 20px;
   background: #fbddd8;
@@ -568,7 +568,7 @@ body {
   transform: rotate(-105deg);
 }
 
-.k_leftLeg:before {
+/*.k_leftLeg:before {
   content: "";
   display: block;
   width: 9px;
