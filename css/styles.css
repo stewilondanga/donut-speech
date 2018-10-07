@@ -125,7 +125,7 @@ body {
 
 /* Glaze Highlights */
 
-/*.df_highlight {
+.df_highlight {
   width: 30px;
   height: 55px;
   position: absolute;
@@ -136,7 +136,7 @@ body {
   transform: rotate(56deg);
 }
 
-.df_highlight:before {
+/*.df_highlight:before {
   content: "";
   display: block;
   width: 20px;
