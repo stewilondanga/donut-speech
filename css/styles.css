@@ -36,7 +36,6 @@ body {
   margin: 0 auto;
 }
 
-/*
 .df_base {
   width: 245px;
   height: 55px;
@@ -47,6 +46,7 @@ body {
   top: 100px;
   z-index: -1;
 }
+
 /* base highlight */
 
 /*.df_base:before {
