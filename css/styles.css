@@ -254,7 +254,7 @@ body {
   transform: rotate(-15deg);
 }
 
-/*.df_sprinkles1:after {
+.df_sprinkles1:after {
   content: "";
   display: block;
   background: #fdfa2c;
@@ -263,7 +263,7 @@ body {
   transform: rotate(-45deg);
 }
 
-.df_sprinkles2,
+/*.df_sprinkles2,
 .df_sprinkles2:before,
 .df_sprinkles2:after {
   width: 23px;
