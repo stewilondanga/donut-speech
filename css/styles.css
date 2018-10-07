@@ -462,7 +462,7 @@ body {
   left: 115px;
 }
 
-/*.k_arm:before {
+.k_arm:before {
   content: "";
   display: block;
   width: 2px;
@@ -474,7 +474,7 @@ body {
   right: -37px;
 }
 
-.k_rightHand,
+/*.k_rightHand,
 .k_rightHand:before {
   width: 5px;
   height: 2px;
