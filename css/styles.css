@@ -412,8 +412,7 @@ body {
   left: 122px;
 }
 
-/*.k_rightEye:before,
-.k_leftEye:before {
+.k_rightEye:before, .k_leftEye:before {
   content: "";
   display: block;
   width: 19px;
@@ -425,7 +424,7 @@ body {
   left: 2px;
 }
 
-.k_mouthNose {
+/*.k_mouthNose {
   width: 6px;
   height: 3px;
   background: #fbddd8;
