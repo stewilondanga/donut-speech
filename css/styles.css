@@ -568,7 +568,7 @@ body {
   transform: rotate(-105deg);
 }
 
-/*.k_leftLeg:before {
+.k_leftLeg:before {
   content: "";
   display: block;
   width: 9px;
@@ -578,7 +578,7 @@ body {
   top: 7px;
 }
 
-.k_leftLeg span {
+/*.k_leftLeg span {
   position: absolute;
   top: -6px;
   right: 4px;
