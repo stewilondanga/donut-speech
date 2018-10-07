@@ -593,8 +593,7 @@ body {
   transform: rotate(31deg)
 }
 
-/*.k_leftHand,
-.k_leftHand:before {
+.k_leftHand, .k_leftHand:before {
   width: 5px;
   height: 2px;
   background: #fbddd8;
@@ -607,7 +606,7 @@ body {
   transform: rotate(-25deg);
 }
 
-.k_leftHand:before {
+/*.k_leftHand:before {
   content: "";
   display: block;
   position: relative;
