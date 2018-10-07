@@ -305,7 +305,7 @@ body {
   transform: rotate(-15deg);
 }
 
-/*.df_sprinkles3:before {
+.df_sprinkles3:before {
   content: "";
   display: block;
   background: #47ef92;
@@ -315,7 +315,7 @@ body {
   transform: rotate(25deg);
 }
 
-.df_sprinkles3:after {
+/*.df_sprinkles3:after {
   content: "";
   display: block;
   background: #53c7ea;
