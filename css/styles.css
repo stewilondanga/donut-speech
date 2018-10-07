@@ -381,7 +381,7 @@ body {
   position: relative;
 }
 
-/*.k_body {
+.k_body {
   width: 80px;
   height: 71px;
   background: #fbddd8;
@@ -395,7 +395,7 @@ body {
   border-radius: 45% 35% 10px 11px;
 }
 
-.k_rightEye,
+/*.k_rightEye,
 .k_leftEye {
   width: 24px;
   height: 24px;
