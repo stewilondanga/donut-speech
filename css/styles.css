@@ -98,7 +98,7 @@ body {
   transform: rotate(4deg);
 }
 
-/*.df_glazeDrips {
+.df_glazeDrips {
   width: 75px;
   height: 27px;
   background: #fed1e2;
@@ -110,7 +110,7 @@ body {
   z-index: -1;
 }
 
-.df_glazeDrips:before {
+/*.df_glazeDrips:before {
   content: "";
   display: block;
   width: 55px;
