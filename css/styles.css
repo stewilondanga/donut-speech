@@ -395,8 +395,7 @@ body {
   border-radius: 45% 35% 10px 11px;
 }
 
-/*.k_rightEye,
-.k_leftEye {
+.k_rightEye, .k_leftEye {
   width: 24px;
   height: 24px;
   background: #fff;
@@ -408,7 +407,7 @@ body {
   left: 160px;
 }
 
-.k_leftEye {
+/*.k_leftEye {
   top: -110px;
   left: 122px;
 }
