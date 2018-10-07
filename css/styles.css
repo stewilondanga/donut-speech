@@ -515,7 +515,7 @@ body {
   transform: rotate(-84deg);
 }
 
-/*.k_rightLeg:before {
+.k_rightLeg:before {
   content: "";
   display: block;
   width: 15px;
@@ -530,7 +530,7 @@ body {
   transform: rotate(19deg);
 }
 
-.k_rightLeg:after {
+/*.k_rightLeg:after {
   content: "";
   display: block;
   width: 2px;
