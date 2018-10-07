@@ -450,7 +450,7 @@ body {
   left: -7px;
 }
 
-/*.k_arm {
+.k_arm {
   width: 48px;
   height: 50px;
   border: solid 2px #000;
@@ -462,7 +462,7 @@ body {
   left: 115px;
 }
 
-.k_arm:before {
+/*.k_arm:before {
   content: "";
   display: block;
   width: 2px;
