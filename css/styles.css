@@ -373,7 +373,7 @@ body {
 
 /* ketnipz */
 
-/*.ketnips {
+.ketnips {
   background: transparent;
   width: 90px;
   height: auto;
@@ -381,7 +381,7 @@ body {
   position: relative;
 }
 
-.k_body {
+/*.k_body {
   width: 80px;
   height: 71px;
   background: #fbddd8;
