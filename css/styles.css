@@ -615,7 +615,7 @@ body {
   transform: rotate(0);
 }
 
-/*.k_leftHand:after {
+.k_leftHand:after {
   content: "";
   display: block;
   width: 3px;
@@ -630,7 +630,7 @@ body {
   transform: rotate(-2deg);
 }
 
-.text {
+/*.text {
   font-family: 'Nothing You Could Do', cursive;
   font-weight: 800;
   color: #e78ab5;
