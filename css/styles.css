@@ -183,7 +183,7 @@ body {
   left: 4px;
 }
 
-/*.df_highlight2:after {
+.df_highlight2:after {
   content: "";
   display: block;
   position: relative;
@@ -195,7 +195,7 @@ body {
   transform: rotate(-15deg);
 }
 
-.df_highlight3,
+/*.df_highlight3,
 .df_highlight3:before,
 .df_highlight3:after {
   width: 30px;
