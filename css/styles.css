@@ -530,7 +530,7 @@ body {
   transform: rotate(19deg);
 }
 
-/*.k_rightLeg:after {
+.k_rightLeg:after {
   content: "";
   display: block;
   width: 2px;
@@ -541,6 +541,7 @@ body {
   left: 7px;
   transform: rotate(72deg);
 }
+
 /* leg-arm fix */
 
 /*.k_rightLeg span {
