@@ -219,7 +219,7 @@ body {
   transform: rotate(45deg);
 }
 
-/*.df_highlight3:after {
+.df_highlight3:after {
   content: "";
   display: block;
   position: relative;
