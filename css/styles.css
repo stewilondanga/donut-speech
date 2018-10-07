@@ -487,7 +487,7 @@ body {
   transform: rotate(-23deg);
 }
 
-/*.k_rightHand:before {
+.k_rightHand:before {
   content: "";
   display: block;
   width: 5px;
@@ -502,7 +502,7 @@ body {
   left: 0;
 }
 
-.k_rightLeg {
+/*.k_rightLeg {
   width: 20px;
   height: 22px;
   background: #fbddd8;
