@@ -578,13 +578,14 @@ body {
   top: 7px;
 }
 
-/*.k_leftLeg span {
+.k_leftLeg span {
   position: absolute;
   top: -6px;
   right: 4px;
   display: inline-block;
   width: 20px;
-  height: 7px;;
+  height: 7px;
+  ;
   background: #fbddd8;
   border-top: 2px solid;
   border-right: none;
@@ -592,7 +593,7 @@ body {
   transform: rotate(31deg)
 }
 
-.k_leftHand,
+/*.k_leftHand,
 .k_leftHand:before {
   width: 5px;
   height: 2px;
