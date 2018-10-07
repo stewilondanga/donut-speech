@@ -161,9 +161,7 @@ body {
   transform: rotate(20deg);
 }
 
-/*.df_highlight2,
-.df_highlight2:before,
-.df_highlight2:after {
+.df_highlight2, .df_highlight2:before, .df_highlight2:after {
   width: 70px;
   height: 25px;
   position: absolute;
@@ -174,7 +172,7 @@ body {
   transform: rotate(3deg);
 }
 
-.df_highlight2:before {
+/*.df_highlight2:before {
   content: "";
   display: block;
   position: relative;
