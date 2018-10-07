@@ -424,7 +424,7 @@ body {
   left: 2px;
 }
 
-/*.k_mouthNose {
+.k_mouthNose {
   width: 6px;
   height: 3px;
   background: #fbddd8;
@@ -436,7 +436,7 @@ body {
   left: 155px;
 }
 
-.k_mouthNose:before {
+/*.k_mouthNose:before {
   content: "";
   display: block;
   width: 10px;
