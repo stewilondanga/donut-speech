@@ -234,10 +234,7 @@ body {
 
 /* Sprinkles */
 
-/*
-.df_sprinkles1,
-.df_sprinkles1:before,
-.df_sprinkles1:after {
+.df_sprinkles1, .df_sprinkles1:before, .df_sprinkles1:after {
   width: 20px;
   height: 4px;
   background: #53c7ea;
@@ -248,7 +245,7 @@ body {
   transform: rotate(10deg);
 }
 
-.df_sprinkles1:before {
+/*.df_sprinkles1:before {
   content: "";
   display: block;
   background: #ea4987;
