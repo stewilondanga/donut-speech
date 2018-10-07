@@ -346,7 +346,7 @@ body {
   transform: rotate(-25deg);
 }
 
-/*.df_sprinkles4:after {
+.df_sprinkles4:after {
   content: "";
   display: block;
   background: #47ef92;
@@ -355,6 +355,7 @@ body {
   left: -14px;
   transform: rotate(25deg);
 }
+
 /* hole */
 
 /*.df_hole {
