@@ -502,7 +502,7 @@ body {
   left: 0;
 }
 
-/*.k_rightLeg {
+.k_rightLeg {
   width: 20px;
   height: 22px;
   background: #fbddd8;
@@ -515,7 +515,7 @@ body {
   transform: rotate(-84deg);
 }
 
-.k_rightLeg:before {
+/*.k_rightLeg:before {
   content: "";
   display: block;
   width: 15px;
